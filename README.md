@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Jaxen Uriah 👋
 
-<!--
-**ure3xo/ure3xo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Web Developer** focused on creating **user-friendly websites** and **digital solutions**. My goal is to connect Africa with innovative ideas using clean, efficient code and modern web technologies.
 
-Here are some ideas to get you started:
+### What I Do
+- **Frontend**: Building responsive websites using HTML, CSS, and JavaScript.
+- **Backend**: Developing server-side solutions with Node.js and Express.
+- **Full-Stack**: Combining frontend and backend to create complete web apps.
+- **API Development**: Designing RESTful APIs for smooth data integration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Get in Touch
+- **Email**: [me@urexo.me]
+- **LinkedIn**: [[LinkedIn Profile Link](https://www.linkedin.com/in/ure3xo)]
+
+---
+
+I'm always open to collaboration and new ideas!
